@@ -5,7 +5,7 @@ NAME="Intune Management"
 FULL_NAME="Intune Management"
 
 # The executable inside windows
-WIN_EXECUTABLE="C:\Users\localadmin\Documents\GitHub\IntuneManagement\Start-WithConsole _PS7.cmd"
+WIN_EXECUTABLE="C:\Users\localadmin\Documents\GitHub\IntuneManagement\Start-WithConsole_PS7.cmd"
 
 # GNOME categories
 CATEGORIES="WinApps;Development"
