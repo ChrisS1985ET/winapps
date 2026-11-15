@@ -1,0 +1,14 @@
+# GNOME shortcut name
+NAME="mcp-windbg"
+
+# Used for descriptions and window class
+FULL_NAME="mcp-windbg"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Users\localadmin\Documents\mcp-windbg\Start-WithConsole_PS7.cmd"
+
+# GNOME categories
+CATEGORIES="WinApps;Development"
+
+# GNOME mimetypes
+MIME_TYPES=""
